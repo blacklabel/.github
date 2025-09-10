@@ -1,4 +1,4 @@
-##  Highcharts Contributors and Co-Creators · Data Visualization Experts
+##  Highcharts Contributors · Data Visualization Experts
 
 **Black Label** is a Krakow-based IT services company specializing in building data-visualization-rich interfaces and applications. Since our founding in **2006**, we’ve helped companies worldwide solve complex challenges through innovative and intuitive data visualization. Built on a foundation of community and long-term partnerships, we’re passionate about empowering better decisions with data.
 
